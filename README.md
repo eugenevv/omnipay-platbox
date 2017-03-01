@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Omnipay: PlatBox
 
 **PlatBox driver for the Omnipay PHP payment processing library**
@@ -265,7 +264,3 @@ you can subscribe to.
 
 If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/thephpleague/omnipay-paypal/issues),
 or better yet, fork the library and submit a pull request.
-=======
-# omnipay-platbox
-PlatBox driver for the Omnipay PHP payment processing library
->>>>>>> eugenevv/master
