@@ -1,0 +1,36 @@
+{
+    "name": "omnipay/platbox",
+    "type": "library",
+    "description": "PlatBox gateway for Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "platbox",
+        "purchase"
+    ],
+    "homepage": "https://github.com/eugenevv/omnipay-platbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eugene Velikanov",
+            "email": "velikanov-e@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\PlatBox\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "~2.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "~2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.3.x-dev"
+        }
+    }
+}
