@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/platbox",
+    "name": "eugenevv/omnipay-platbox",
     "type": "library",
     "description": "PlatBox gateway for Omnipay payment processing library",
     "keywords": [
